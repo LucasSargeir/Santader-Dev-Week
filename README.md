@@ -21,9 +21,9 @@ O _backend_ da aplicação foi feito em Java utilizando o _framework_ Spring. O 
 
 
 
-**Rota: **<span style="color:blue">GET</span> `/stock` 
+**Rota:** <span style="color:blue">GET</span> `/stock` 
 
-**Corpo: ** nenhum
+**Corpo:**  nenhum
 
 **Exemplo de Resposta:**
 
@@ -45,7 +45,7 @@ O _backend_ da aplicação foi feito em Java utilizando o _framework_ Spring. O 
 
 **Rota:** <span style="color:blue">GET</span> `/stock/{id}` 
 
-**Corpo: ** nenhum
+**Corpo:** nenhum
 
 **Exemplo de Resposta:**
 
@@ -65,7 +65,7 @@ O _backend_ da aplicação foi feito em Java utilizando o _framework_ Spring. O 
 
 **Rota:** <span style="color:green">POST</span> `/stock` 
 
-**Corpo: **
+**Corpo:**
 
 ```json
 {
@@ -93,9 +93,9 @@ O _backend_ da aplicação foi feito em Java utilizando o _framework_ Spring. O 
 
 
 
-**Rota: **<span style="color:orange">PUT</span> `/stock` 
+**Rota:** <span style="color:orange">PUT</span> `/stock` 
 
-**Corpo: **
+**Corpo:** 
 
 ```json
 {
