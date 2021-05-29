@@ -133,9 +133,3 @@ Os dados enviados para API devem seguir o  seguinte padrão:
 - `price` : Double(6.2) **(obrigatório)**
 - `date` : Date(dd/MM/yyyy) **(obrigatório)**
 - `variation` : Double(3.2)  **(obrigatório)**
-
-
-
-
-## Frontend
-
