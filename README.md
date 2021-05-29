@@ -13,7 +13,11 @@ O _backend_ da aplicação foi feito em Java utilizando o _framework_ Spring. O 
 **Dependencias**
 
 - Spring
+  - web
+  - validation
+  - data-jpa
 - OpenAPI (Swagger)
+- Postgresql
 
 
 
