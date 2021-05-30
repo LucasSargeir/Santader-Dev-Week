@@ -1,12 +1,20 @@
-# Santader Dev Week
+# Santader Dev Week - Backend
 
 O Santander Dev Week é um evento de tecnologia que tem como objetivo compatilhar conhecimento das tecnologias utilizadas pela empresa nos seus projetos.
 
 
 
+## Utilização
+
+Embora criada para servir ao _frontend_ você pode utilizar a API fazendo suas requisições ao host: http://santander-dev-week-sargeiro.herokuapp.com/bootcamp/
+
+Para mais informações e testes acesse a [página](http://santander-dev-week-sargeiro.herokuapp.com/bootcamp/swagger-ui.html).
+
+
+
 ## Backend
 
-O _backend_ da aplicação foi feito em Java utilizando o _framework_ Spring. O objetivo desse parte do sistema foi montar uma API REST para que pudesse servir os dados para o _frontend_.
+O _backend_ da aplicação foi feito em Java utilizando o _framework_ Spring. O objetivo desse parte do sistema foi montar uma API REST para que pudesse servir os dados para o [_frontend_](https://github.com/LucasSargeir/Santader-Dev-Week-Frontend).
 
 
 
@@ -21,7 +29,7 @@ O _backend_ da aplicação foi feito em Java utilizando o _framework_ Spring. O 
 
 
 
-### Rotas Criadas
+### Rotas
 
 
 
